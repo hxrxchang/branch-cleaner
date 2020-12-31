@@ -5,7 +5,7 @@ branch-cleaner is a command line tool for deleting unnecessary git branches all 
 ## Installation
 
 ```
-git clone git@github.com:hxrxchang/branch-cleaner.git ~
+git clone git@github.com:hxrxchang/branch-cleaner.git ~/branch-cleaner
 cd ~/branch-cleaner
 chmod +x branch-cleaner.sh
 ```
